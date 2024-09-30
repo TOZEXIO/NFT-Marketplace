@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+
+const preload = require("./utils/libs/search.min")
 module.exports = {
   content: [
     './pages/**/*.{js,ts,jsx,tsx,mdx}',

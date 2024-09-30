@@ -16,6 +16,8 @@
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.6",
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
